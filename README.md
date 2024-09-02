@@ -3,7 +3,7 @@ Frontend E-Commerce site
 
 ## Live Demo#
 
-https://githubramim.github.io/E-Commerce-Website/
+https://githubramim.github.io/ECOMMERCE/
 
 
 
